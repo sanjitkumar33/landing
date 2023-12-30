@@ -1,0 +1,108 @@
+#imgbg{
+    background-image: url(https://zeblearn.com/best-sap-training-in-india/assets/img/bann-bg/SandT2.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-top: 5%;
+    
+
+}
+
+#heading{
+    font-size: 40px;
+    color:white;
+    margin-top: 4%;
+    
+    
+}
+
+.conteb h2{
+    text-align: center;
+    color: #20394f;
+}
+.Key{
+    background-color: #dedede;
+    
+}
+.Sap{
+    background-color: darkslateblue;
+}
+
+
+.foot{
+    background-color: #20394f;
+    height: 150px;
+}
+
+
+
+.quickSubHeading{
+    color:gray;
+    font-size:20px;
+    line-height: 2;
+    margin-left:2%;
+}
+.tileContainer{
+    height:300px;
+    width:20%;
+    margin-left:2%;
+    margin-top:3%;
+    box-shadow:10px 20px 10px gray;
+    float: left;
+    animation:dance 15s;
+    background-color: white;
+}
+.tileComponent1{
+    background-image: url(https://zeblearn.com/best-sap-training-in-india/assets/img/bann-bg/feature2.jpg);
+    height: 30%;
+}
+
+#quickSearch1{
+    /* height:800px; */
+    display: inline-block;
+    width:80%;
+    margin-left:10%;
+    margin-top:2%;
+    margin-bottom:2%;
+  }
+  .card1{
+      float: left;
+      margin-left: 3%;
+  }
+  #quickSearch2{ 
+    /* height:800px; */
+    display: inline-block;
+    width:80%;
+    margin-left:10%;
+    margin-top:2%;
+    /* margin-bottom:2%; */
+  } 
+   .tileContainer2{ 
+    height:350px;
+    width:31%;
+    margin-left:2%;
+    margin-top:3%;
+    /* box-shadow:10px 20px 10px gray; */
+    float: left;  
+    /* animation:dance 15s; */
+    /* background-color: white;  */
+ }
+ .bg-darks{
+     background-color: #20394f;
+     height: 9%;
+ }
+ .bg-dark1{
+    background-color: rgba(22,34,57,0.95);
+ }
+ .testimo{
+     background-image: url(https://zeblearn.com/best-sap-training-in-india/assets/images/coming-soon-bg.jpg);
+     height: 400px;
+     background-size: 100% 450px;
+     margin-top: 3%;
+ }
+ .testtext{
+     color: white;
+ }
+ 
+
+  
+
